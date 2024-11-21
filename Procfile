@@ -1,2 +1,2 @@
-worker: bash start.sh
+web: gunicorn main:application
 
