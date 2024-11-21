@@ -7,4 +7,6 @@ telethon==1.37.0
 tgcrypto==1.2.5
 dnspython==2.2.1
 pyrogram1==0.1.0
-gunicorn
+flask==2.2.0  
+gunicorn==23.0.0  
+
